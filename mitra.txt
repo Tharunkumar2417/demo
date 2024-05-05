@@ -1,1 +1,5 @@
+<<<<<<< HEA:D
  hi this is from sweta
+=======
+ hi this is from master
+>>>>>>> master
